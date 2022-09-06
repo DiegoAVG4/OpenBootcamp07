@@ -1,0 +1,14 @@
+{
+  "name": "set_y_objeto",
+  "version": "1.0.0",
+  "description": "Ejercicio de Sets y Objetos en consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "Set y Objetos"
+  },
+  "keywords": [
+    "Sets"
+  ],
+  "author": "DiegoAVG",
+  "license": "ISC"
+}
