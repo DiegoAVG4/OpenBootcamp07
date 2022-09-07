@@ -4,6 +4,7 @@
   "description": "Ejercicio de Sets y Objetos en consola",
   "main": "index.js",
   "scripts": {
+    "start": "conjuntos.js",
     "test": "Set y Objetos"
   },
   "keywords": [
